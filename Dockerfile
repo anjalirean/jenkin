@@ -1,1 +1,1 @@
-Echo "Hello World"
+print("Goodbye, World!")
